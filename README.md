@@ -12,7 +12,7 @@ YouTube demo video link
 
 ![IMAGE ALT TEXT](http://img.youtube.com/vi/YwQRJuwtddc/0.jpg)
 
-(https://www.youtube.com/watch?v=YwQRJuwtddc "SpikeNeRF")
+[Demo](https://www.youtube.com/watch?v=YwQRJuwtddc "SpikeNeRF")
 
 # Code
 The code is based on [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch).
