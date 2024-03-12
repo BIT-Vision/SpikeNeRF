@@ -10,6 +10,7 @@ Codes for CVPR 2024 paper "SpikeNeRF: Learning Neural Radiance Fields from Conti
 - [Usage](#Usage)
   - [trian](#train)
   - [test](#test)
+- [Acknowledgement](#Acknowledgement)
 
 
 # Demo
@@ -66,3 +67,7 @@ To test NeRF trained on different datasets:
 python run_spikenerf.py --config configs/{DataType}/{DataSet}.txt --render_only
 ```
 replace ```{DataType}``` with ```nerf_synthetic``` or ```nerf_llff_data``` , and replace ```{DataSet}``` with ```toys``` | ```dolls``` | ```lego``` | ```chair``` | etc.
+
+
+# Acknowledgement
+This codebase is built upon [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch),and thanks to the open source project for its help and inspiration.
