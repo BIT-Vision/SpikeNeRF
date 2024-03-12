@@ -26,3 +26,4 @@ pip install -r requirements.txt
 ```
 
 # Data
+You can download the training data we processed from [Google Drive](https://drive.google.com/drive/my-drive).
