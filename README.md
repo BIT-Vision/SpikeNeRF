@@ -15,7 +15,7 @@ YouTube demo video link
 (https://www.youtube.com/watch?v=YwQRJuwtddc "SpikeNeRF")
 
 # Code
-The code is based on nerf-pytorch.
+The code is based on [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch).
 
 # Requirements
 '''
