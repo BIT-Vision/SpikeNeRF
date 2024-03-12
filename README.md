@@ -20,8 +20,8 @@ The code is based on [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch).
 # Requirements
 
 ```
-git clone https://github.com/yenchenlin/nerf-pytorch.git
-cd nerf-pytorch
+git clone https://github.com/BIT-Vision/SpikeNeRF.git
+cd SpikeNeRF
 pip install -r requirements.txt
 ```
 
