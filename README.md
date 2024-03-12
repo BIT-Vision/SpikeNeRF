@@ -70,4 +70,4 @@ replace ```{DataType}``` with ```nerf_synthetic``` or ```nerf_llff_data``` , and
 
 
 # Acknowledgement
-This codebase is built upon [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch), and thanks for the help and inspiration of this open source project.
+This codebase is built upon [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch), and thanks for the help and inspiration of the open source project.
