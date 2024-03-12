@@ -18,10 +18,11 @@ YouTube demo video link
 The code is based on [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch).
 
 # Requirements
-'''
+
+```
 git clone https://github.com/yenchenlin/nerf-pytorch.git
 cd nerf-pytorch
 pip install -r requirements.txt
-'''
+```
 
 # Data
