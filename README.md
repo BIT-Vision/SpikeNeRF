@@ -56,11 +56,13 @@ Place the downloaded dataset according to the following directory structure:
 ## trian
 To train SpikeNeRF on different datasets:
 ```
-python run_spikenerf.py --config configs/{DATASET}.txt
+python run_spikenerf.py --config configs/{DataType}/{DataSet}.txt
 ```
+replace {DataType} with nerf_synthetic or nerf_llff_data,replace {DataSet} with toys | dolls | lego | chair | etc.
 
 ## test
 To test NeRF trained on different datasets:
 ```
-python run_spikenerf.py --config configs/{DATASET}.txt --render_only
+python run_spikenerf.py --config configs/{DataType}/{DataSet}.txt --render_only
 ```
+replace {DataType} with nerf_synthetic or nerf_llff_data,replace {DataSet} with toys | dolls | lego | chair | etc.
