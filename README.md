@@ -58,11 +58,11 @@ To train SpikeNeRF on different datasets:
 ```
 python run_spikenerf.py --config configs/{DataType}/{DataSet}.txt
 ```
-replace ```{DataType}``` with ```nerf_synthetic``` or ```nerf_llff_data``` , replace ```{DataSet}``` with ```toys``` | ```dolls``` | ```lego``` | ```chair``` | etc.
+replace ```{DataType}``` with ```nerf_synthetic``` or ```nerf_llff_data``` , and replace ```{DataSet}``` with ```toys``` | ```dolls``` | ```lego``` | ```chair``` | etc.
 
 ## test
 To test NeRF trained on different datasets:
 ```
 python run_spikenerf.py --config configs/{DataType}/{DataSet}.txt --render_only
 ```
-replace {DataType} with nerf_synthetic or nerf_llff_data,replace {DataSet} with toys | dolls | lego | chair | etc.
+replace ```{DataType}``` with ```nerf_synthetic``` or ```nerf_llff_data``` , and replace ```{DataSet}``` with ```toys``` | ```dolls``` | ```lego``` | ```chair``` | etc.
