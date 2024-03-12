@@ -54,7 +54,7 @@ Place the downloaded dataset according to the following directory structure:
 
 # Usage
 
-## trian
+## train
 To train SpikeNeRF on different datasets:
 ```
 python run_spikenerf.py --config configs/{DataType}/{DataSet}.txt
