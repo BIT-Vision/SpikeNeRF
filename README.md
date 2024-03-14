@@ -1,5 +1,3 @@
-
-https://github.com/BIT-Vision/SpikeNeRF/assets/138574367/7adbfde8-2078-4521-8dea-1b4f18839ce7
 # ***SpikeNeRF***
 Codes for CVPR 2024 paper "SpikeNeRF: Learning Neural Radiance Fields from Continuous Spike Stream"
 
@@ -20,10 +18,7 @@ YouTube demo video link:
 
 [![Watch the video](https://img.youtube.com/vi/AX07rpFppCc/0.jpg)](https://www.youtube.com/watch?v=AX07rpFppCc)
 
-
-Uploading SpikeNeRF.mp4…
-
-
+https://github.com/BIT-Vision/SpikeNeRF/assets/138574367/7adbfde8-2078-4521-8dea-1b4f18839ce7
 
 # Code
 The code is based on [nerf-pytorch](https://github.com/yenchenlin/nerf-pytorch).
