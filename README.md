@@ -16,6 +16,8 @@ Codes for CVPR 2024 paper "SpikeNeRF: Learning Neural Radiance Fields from Conti
 # Demo
 YouTube demo video link:
 
+https://github.com/BIT-Vision/SpikeNeRF/blob/main/SpikeNeRF.mp4
+
 ![IMAGE ALT TEXT](http://img.youtube.com/vi/AX07rpFppCc/0.jpg)
 
 [Demo](https://www.youtube.com/watch?v=AX07rpFppCc "SpikeNeRF")
