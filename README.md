@@ -18,10 +18,8 @@ YouTube demo video link:
 
 [![Watch the video](https://img.youtube.com/vi/AX07rpFppCc/0.jpg)](https://www.youtube.com/watch?v=AX07rpFppCc)
 
-<video controls>
-    <source src="https://github.com/BIT-Vision/SpikeNeRF/blob/main/demo/SpikeNeRF.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AX07rpFppCc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 # Code
