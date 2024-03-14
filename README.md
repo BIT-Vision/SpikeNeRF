@@ -19,7 +19,8 @@ YouTube demo video link:
 [![Watch the video](https://img.youtube.com/vi/AX07rpFppCc/0.jpg)](https://www.youtube.com/watch?v=AX07rpFppCc)
 
 
-Uploading SpikeNeRF.mp4…
+Uploading Demo.mp4…
+
 
 
 
