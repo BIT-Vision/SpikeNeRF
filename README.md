@@ -61,6 +61,11 @@ replace ```{DataType}``` with ```nerf_synthetic``` or ```nerf_llff_data``` , and
 
 ## test
 To test SpikeNeRF trained on different datasets:
+render the test data：
+```
+python run_spikenerf.py --config configs/{DataType}/{DataSet}.txt --render_only --render_test
+```
+render the novel view:
 ```
 python run_spikenerf.py --config configs/{DataType}/{DataSet}.txt --render_only
 ```
