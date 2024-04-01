@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 
 # Data
-You can download the training data we processed from [Google Drive](https://drive.google.com/drive/folders/1tWFmMVSxEf-z3SYmizIUnHxG69uKF3f3).
+You can download the training data we processed from [Google Drive](https://drive.google.com/file/d/1ApQXj9xK7u5jFcjSSeiPn5Gzix1TuNAr/view?usp=drive_link).
 Place the downloaded dataset according to the following directory structure:
 ```
 ├── configs                                                                                                       
